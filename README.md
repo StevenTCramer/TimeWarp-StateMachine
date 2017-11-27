@@ -1,0 +1,1 @@
+A TypeScript implementation of an executable UML State Machine.
